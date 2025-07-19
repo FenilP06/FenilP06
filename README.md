@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jenish Patel</h1>
-<h3 align="center">Final Year Computer Engineering Student | Tech Enthusiast | Innovator</h3>
+<h1 align="center">Hi 👋, I'm Fenil Patel</h1>
+<h3 align="center">Pre-Final Year Computer Engineering Student | Full-Stack Developer | Problem Solver </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenish-patel31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=FenilP0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-I'm a passionate **Computer Engineering** student with a keen interest in **Blockchain Technology**, software development, and problem-solving. Always eager to explore the latest trends in technology and innovation, I strive to turn ideas into impactful solutions.
+I’m a passionate **pre-final year Computer Engineering student** driven by curiosity and a love for building impactful tech solutions. I enjoy working on real-world challenges using **AI/ML**, **full-stack development**, and **problem-solving skills**.
 
-- 🌱 **Currently Learning**: Blockchain development, Ethereum, and Smart Contracts.  
-- 📫 **Reach Me**: [jenishkp07@gmail.com](mailto:jenishkp07@gmail.com)  
-- ⚡ **Fun Fact**: I transform **tea into code**, one sip at a time!  
+- 🌱 **Currently Learning**: AI-ML
+- 🛠️ **Core Strengths**: Logic building, collaborative development, and rapid prototyping   
+- 📫 **Reach Me**: [feniljp06@gmail.com](mailto:feniljp06@gmail.com)   
 
 ---
 
@@ -25,12 +25,18 @@ I'm a passionate **Computer Engineering** student with a keen interest in **Bloc
 
 ### 🛠️ Languages & Tools  
 <p align="left"> <!-- Programming Languages --> 
-   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" alt="Blockchain" /> 
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /> 
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /> 
-  <img src="https://img.shields.io/badge/Pinata-FFCE44?style=for-the-badge&logo=pinata&logoColor=black" alt="Pinata" /> 
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
+  <!-- General AI/ML -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-272727?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <!-- Libraries & Tools -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
@@ -50,21 +56,32 @@ I'm a passionate **Computer Engineering** student with a keen interest in **Bloc
 ---
 
 ### 💻 Projects & Experience  
-- **Data Analysis & Visualization**: Developed and visualized datasets using Python to derive actionable insights.  
-- **Blockchain Basics**: Created small-scale blockchain-based systems to explore decentralization principles.  
-- **Academic Projects**: Hands-on experience in designing and deploying projects related to database systems, networking, and web development.  
+- 🧠 **Quizera**: A real-time smart quiz platform with live scoreboard & custom room system – built using **React, Node.js, WebSocket**  
+- 🛍️ **WebuyOld**: An online platform for **buying & selling used gadgets**, built with a focus on sustainability and circular economy  
+- 🌱 **EcoFeed**: A platform that connects **donors, NGOs, volunteers, and farmers** to reduce food waste. It redistributes **surplus edible food** and converts **inedible food into slurry** for farmers. Features include **real-time donation management** and **food distribution tracking**.
+- 🔒 **EviVault**: Blockchain-powered secure storage solution for **legal and personal documents**  
+- 📄 **OCR**: Extracts text & data from scanned documents using **Tesseract OCR + Python**, optimized for structured outputs  
+- 🔊 **VoiceModAI**: Fine-tuned a **speech recognition model** to improve accuracy for regional Indian accents
 
 ---
 
-### 🤝 Let's Connect  
-I’m always looking for exciting opportunities and collaborations. Whether it’s discussing innovative ideas, tackling technical challenges, or sharing knowledge, feel free to connect with me!  
+
+### 🤝 Let's Connect!
+
+I'm open to **internships, collaborations, hackathons, and research opportunities** in software and AI. Let’s connect, brainstorm, and build!
 
 <p align="left">
-  <a href="https://linkedin.com/in/jenish-patel-31k" target="_blank">
+  <a href="https://www.linkedin.com/in/imfp/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:feniljp06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-Let’s create something amazing together! 🚀  
+### ⚡ Fun Fact  
+> *"I believe code isn't just about syntax—it's about solving real-world problems with creativity and logic."*
+
+Let’s build something meaningful together! 🚀
